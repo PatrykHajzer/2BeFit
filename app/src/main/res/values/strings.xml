@@ -1,0 +1,57 @@
+<resources>
+    <string name="Monday">Monaday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="Saturday">Saturday</string>
+    <string name="Sunday">Sunday</string>
+    <!--<string-array name="week">-->
+    <!--<item name = "Monday" >Monday</item>-->
+    <!--<item name = "Tuesday" >Tuesday</item>-->
+    <!--<item name = "Wednesday" >Wednesday</item>-->
+    <!--<item name = "Thursday" >Thursday</item>-->
+    <!--<item name = "Friday" >Friday</item>-->
+    <!--<item name = "Saturday" >Saturday</item>-->
+    <!--<item name = "Sunday" >Sunday</item>-->
+    <!--</string-array>-->
+    <string name="app_name">2BFit</string>
+
+    <string name="deepSquad">Deep Squad</string>
+    <string name="standingPress">Standing Press</string>
+    <string name="hipThrust">Hip Thrust</string>
+    <string name="wideGripPullUp">Wide Grip Pull Up</string>
+    <string name="dumbbellLunge">Dumbbell Lunge</string>
+    <string name="pollofPress">Pollof Press</string>
+    <string name="farmerWalk">Farmers Walk</string>
+    <string name="create">Create</string>
+    <string-array name="exercize">
+        <item>Deep Squad</item>
+        <item>Standing Press</item>
+        <item>Hip Thrust</item>
+        <item>Wide Grip Pull Up</item>
+        <item>Dumbbell Lunge</item>
+        <item>Pollof Press</item>
+        <item>Farmers Walk</item>
+    </string-array>
+    <string-array name="series">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="reps">
+        <item>6</item>
+        <item>8</item>
+        <item>12</item>
+        <item>8</item>
+        <item>12</item>
+        <item>12</item>
+        <item>100m</item>
+    </string-array>
+    <string name="title_activity_create_day">CreateDay</string>
+</resources>
